@@ -1,4 +1,7 @@
 .env
+src/assets/scripts/
+src/assets/styles/css
+
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
