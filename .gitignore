@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
 .env
 src/assets/scripts/
 src/assets/styles/css
 
->>>>>>> adrian_dev
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
@@ -148,8 +145,4 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/node
-=======
-# End of https://www.toptal.com/developers/gitignore/api/node
->>>>>>> adrian_dev
