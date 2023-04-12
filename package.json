@@ -1,12 +1,24 @@
 {
   "name": "taller2_adhernandez",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "Proyecto de Typescript",
+>>>>>>> adrian_dev
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+>>>>>>> adrian_dev
 }
